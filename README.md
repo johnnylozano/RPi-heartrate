@@ -12,6 +12,14 @@ The goal of this project is to gather heart rate and SpO2 data using the Raspber
 ---
 
 ## Design
+* Pin 1 to Vin
+* Pin 3 to SDA
+* Pin 5 to SCL
+* Pin 7 to INT
+* Pin 9 to GND
+
+
+<img src="./img/rpi-gpio-layout.png">
 
 <img src="./img/rpi-heartrate-circuit_bb.png">
 
